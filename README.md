@@ -1,4 +1,4 @@
-# Keystroke Logger (main.py)
+# Keystroke Logger 
 
 A basic keylogger script written in Python using the `pynput` library. It listens for keyboard events and logs keystrokes into a `log.txt` file.
 
